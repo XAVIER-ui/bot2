@@ -103,7 +103,7 @@ za_api = "ApiRifzaBot"
 LolApi = "WannOff" //Ganti sama Api lu
 zenzapi = "LordRifza"
 xteamkey = "7415bc4287ad5ca8"
-target = "6285640068416@s.whatsapp.net" //Ganti jadi nomor lu
+target = "6283181106073@s.whatsapp.net" //Ganti jadi nomor lu
 
 const { getBuffer, getGroupAdmins, getRandom, runtime, sleep } = require('./lib/myfunc')
 const { fetchJson, getBase64, kyun, createExif } = require('./lib/fetch')
